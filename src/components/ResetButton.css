@@ -1,0 +1,14 @@
+.reset-btn {
+  border: none;
+  border-radius: 0.5rem;
+  background: linear-gradient(
+    to left,
+    rgba(7, 27, 82, 1) 0%,
+    rgb(16, 85, 85) 100%
+  );
+  color: white;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  margin: 2rem auto;
+  display: block;
+}
